@@ -1,0 +1,53 @@
+li.message {
+    display: inherit;
+	    width: 477px;
+    margin-left: 10px;
+    border: 1px solid;
+	    margin-bottom: 4px;
+}
+ul.liste-de-messages {
+padding-left: inherit;
+margin: inherit;
+    margin-top: 5px;
+}
+
+#like
+{
+    cursor: pointer;
+}
+
+#hide
+{
+    cursor: pointer;
+}
+span.name {
+    color: red;
+	    display: inline;
+    float: left;
+}
+.like-dislike {
+    width: 100px;
+    height: 18px;
+    margin: 3px;
+}
+
+img {
+    height: auto;
+    width: 17px;
+    float: left;
+	padding: 3px;
+}
+
+.msg {
+    height: auto;
+
+	word-wrap: break-word;
+    width: 467px;
+    
+}
+#header{
+border: 1px solid;
+    width: 500px;
+    height: auto;
+	margin: auto;
+}
